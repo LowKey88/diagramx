@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T02:57:00.279Z" agent="5.0 (Macintosh)" etag="iTJiVZjbbirStxAJBrFc" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T02:58:22.352Z" agent="5.0 (Macintosh)" etag="phG9czs3OheFLvxGyTy2" version="14.2.9" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2893" dy="1093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -63,9 +63,6 @@
         </mxCell>
         <mxCell id="dMkXRGYsvUkfnQJ_dTJu-2282" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="970" y="700" width="101" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="dMkXRGYsvUkfnQJ_dTJu-2285" value="&amp;nbsp;SW IP VLAN20 192.168.20.103 " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="861.75" y="560" width="208" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dMkXRGYsvUkfnQJ_dTJu-2287" value="&amp;nbsp;SW IP VLAN20 192.168.20.101 " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-10" y="770" width="208" height="20" as="geometry" />
@@ -163,13 +160,13 @@
         <mxCell id="Rmz_lBIaj5w4n0EXxYIc-2115" value="&amp;nbsp;SW IP VLAN20 192.168.20.109 " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1370" y="760" width="208" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Rmz_lBIaj5w4n0EXxYIc-2117" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="dMkXRGYsvUkfnQJ_dTJu-2267">
+        <mxCell id="Rmz_lBIaj5w4n0EXxYIc-2117" value="" style="endArrow=none;html=1;exitX=0.87;exitY=0.74;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dMkXRGYsvUkfnQJ_dTJu-2267">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1014.55" y="597" as="sourcePoint" />
             <mxPoint x="1143.002265625" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rmz_lBIaj5w4n0EXxYIc-2118" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dMkXRGYsvUkfnQJ_dTJu-2267" target="Rmz_lBIaj5w4n0EXxYIc-2114">
+        <mxCell id="Rmz_lBIaj5w4n0EXxYIc-2118" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.98;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dMkXRGYsvUkfnQJ_dTJu-2267" target="Rmz_lBIaj5w4n0EXxYIc-2114">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="603.1767099167187" as="sourcePoint" />
             <mxPoint x="1299.0022656250003" y="700" as="targetPoint" />
@@ -178,7 +175,7 @@
         <mxCell id="Rmz_lBIaj5w4n0EXxYIc-2120" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1360" y="700" width="101" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Rmz_lBIaj5w4n0EXxYIc-2121" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Rmz_lBIaj5w4n0EXxYIc-2120">
+        <mxCell id="Rmz_lBIaj5w4n0EXxYIc-2121" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dMkXRGYsvUkfnQJ_dTJu-2267" target="Rmz_lBIaj5w4n0EXxYIc-2120">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="884" y="607.2134013228447" as="sourcePoint" />
             <mxPoint x="1309.0022656250003" y="710" as="targetPoint" />
